@@ -1,8 +1,6 @@
 @printfarmerapi_HostAddress = http://localhost:5148
 
-
-GET http://localhost:5148/PrintFarm
-
+ 
 ###
 GET http://localhost:5148/PrintFarm/4/4
 Accept: application/json
